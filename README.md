@@ -102,7 +102,7 @@ fingerprint-matcher-v7/
 
 ## 📬 Contact
 
-Created by **\[Your Name]** – [LinkedIn](https://www.linkedin.com/in/mubashirabbas/) | [GitHub](https://github.com/mubashirabbass)
+Created by **\[Mubashir abbas ]** – [LinkedIn](https://www.linkedin.com/in/mubashirabbas/) | [GitHub](https://github.com/mubashirabbass)
 mubashirabbasedu12@gmail.com
 
 Feel free to open issues, suggest features, or contribute!
